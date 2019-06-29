@@ -5,9 +5,21 @@
       z-index: 0;
     }
     .blog-heading-content {
-      margin-top: -5rem;
+      margin-top: -3rem;
       position: relative;
       z-index: 1;
     }
   }
+}
+
+.flex-column-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-img {
+  max-width: 450px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
