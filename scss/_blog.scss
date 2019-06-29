@@ -1,0 +1,13 @@
+.blog-heading {
+  @media (min-width: 992px) {
+    .blog-heading-img {
+      position: relative;
+      z-index: 0;
+    }
+    .blog-heading-content {
+      margin-top: -5rem;
+      position: relative;
+      z-index: 1;
+    }
+  }
+}
