@@ -69,4 +69,9 @@ p {
 
 .bg-faded {
   background-color: fade-out($white, 0.15);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.bold {
+  font-weight: 600;
 }
