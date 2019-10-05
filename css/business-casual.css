@@ -219,6 +219,10 @@ p {
   }
 }
 
+.blog-entry {
+  margin-top: 24px;
+}
+
 @media (min-width: 992px) {
   .about-item .about-item-title {
     position: relative;
