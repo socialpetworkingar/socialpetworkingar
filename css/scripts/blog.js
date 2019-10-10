@@ -9,16 +9,22 @@
 // Dummy data
 const blogs = [
   {
-    header: 'The Challenges of Puppy Love',
-    subHeader: 'How the journey of raising a dog might just change your life.',
-    url: 'https://medium.com/@cassicolvett/the-challenges-of-puppy-love-fbe64493b50f',
-    text: 'Picture it: You’ve just made the hesitant choice to bring home a perfect, pint-sized puppy. It wasn’t in the plans, but you’ve stumbled across a post on social media seeking some sucker to take an adorable pup off their hands.Their neighbor’s escape artist of a dog has found its way into their fence yet again, and now they’re looking for a good home for an unexpected litter.She has bright blue eyes, a big round belly, probably more spunk than she weighs, and you can’t help but give her the home she deserves.You envision life with a faithful dog by your side that you’ve raised to be the ideal companion.In fact, almost instantly after deciding you’ll take her home, you’ve already loaded up on all of the “necessities”: a cute, fluffy bed, a pink collar with pearls, stuffed animals that are twice her size, and plenty more.You are over- prepared(or so you think).'
+    header: 'Halloween Hacks for Humans',
+    subHeader: 'How to keep your pets safe during the scariest night of the year.',
+    url: 'https://medium.com/@cassicolvett/halloween-hacks-for-humans-1e081fdaceac',
+    text: 'Every year, I throw an elaborate Halloween shindig with my nearest and dearest pals. Scary snacks are made (hopefully in appearance and not flavor), decorations litter the walls and the floors, party playlists blare, and friends fill the usually unoccupied corners of my home. Halloween is hands down one of my favorite holidays to celebrate, but I can’t say the same for my pets — my three rabbits, two cats, and two dogs.'
   },
   {
     header: 'Training Your Dog',
     subHeader: 'Follow These Tips for Success',
     url: 'https://medium.com/@cassicolvett/training-your-dog-237e951b98cd',
     text: 'Your dog is not like any other dog on the planet. I mean, that’s what makes them so special, right? They are your dog, and your dog is going to learn at a different pace and in different ways than any other pet.So, you have to do yourself a favor.Focus on you and your pet’s journey only.Keep learning together while exploring your pet’s unique personality and any embarrassment, with a little work, will turn into joy.'
+  },
+  {
+    header: 'The Challenges of Puppy Love',
+    subHeader: 'How the journey of raising a dog might just change your life.',
+    url: 'https://medium.com/@cassicolvett/the-challenges-of-puppy-love-fbe64493b50f',
+    text: 'Picture it: You’ve just made the hesitant choice to bring home a perfect, pint-sized puppy. It wasn’t in the plans, but you’ve stumbled across a post on social media seeking some sucker to take an adorable pup off their hands.Their neighbor’s escape artist of a dog has found its way into their fence yet again, and now they’re looking for a good home for an unexpected litter.She has bright blue eyes, a big round belly, probably more spunk than she weighs, and you can’t help but give her the home she deserves.You envision life with a faithful dog by your side that you’ve raised to be the ideal companion.In fact, almost instantly after deciding you’ll take her home, you’ve already loaded up on all of the “necessities”: a cute, fluffy bed, a pink collar with pearls, stuffed animals that are twice her size, and plenty more.You are over- prepared(or so you think).'
   }
 ];
 
