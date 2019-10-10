@@ -75,3 +75,8 @@ p {
 .bold {
   font-weight: 600;
 }
+
+.top {
+  position: relative;
+  z-index: 100;
+}

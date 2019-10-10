@@ -92,6 +92,11 @@ p {
   font-weight: 600;
 }
 
+.top {
+  position: relative;
+  z-index: 100;
+}
+
 #mainNav {
   background-color: rgba(254, 245, 223, 0.9);
   font-family: 'Raleway';
@@ -182,6 +187,22 @@ p {
   left: -0.5rem;
   right: -0.5rem;
   border: 0.25rem solid rgba(255, 255, 255, 0.85);
+}
+
+.book-appointment-link {
+  background-color: #52AC96;
+  color: white;
+  height: 40px;
+  text-transform: uppercase;
+  font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif;
+  letter-spacing: 1px;
+  line-height: 38px;
+  padding: 0 28px;
+  border-radius: 3px;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+  display: inline-block;
 }
 
 @media (min-width: 992px) {
